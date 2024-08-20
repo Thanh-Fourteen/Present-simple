@@ -171,3 +171,7 @@ footer {
     border-top: 1px solid #ccc;
 }
 
+#loi-sai-bai1, #loi-sai-bai2, #loi-sai-bai3 {
+    color: red;
+    margin-top: 0.5rem;
+}
